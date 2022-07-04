@@ -7,5 +7,3 @@ spring:
     generate-ddl: true
   datasource:
     url: jdbc:mysql://192.168.18.4:3306/bookingdb
-    username: mservices
-    password: 1234567890
