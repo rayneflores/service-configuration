@@ -1,6 +1,6 @@
 product.property: Product Profile Dev
 app:
-  testProp: Property of test Updated
+  testProp: Property of test
 spring:
   data:
     mongodb:
